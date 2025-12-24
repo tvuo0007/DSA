@@ -1,4 +1,4 @@
 .vscode
 bin
 lib
-extreme.class
+*.class
