@@ -7,6 +7,7 @@ public class ChangeCoins {
         int[] coins = {1, 3, 4};
         System.out.println(changeCoins1(coins, 6));
         System.out.println(changeCoins2(coins, 6));
+        System.out.println("Testting token");
     }
     public static int changeCoins1(int[] coins, int money) {
         int[] dp = new int[money + 1];
